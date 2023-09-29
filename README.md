@@ -2,7 +2,7 @@
 
 #### Check out some fun projects linked below:
 
-  - [React Jobly App](https://jobly-zhl.netlify.app) 📜
-  - [Pixly Image App](http://pixly-zhl.herokuapp.com) 🌇
-  - [Warbler Tweeting App](https://warbler-zhl.herokuapp.com) 🦜
+  - [Pixly Image App](https://github.com/Zhenhua01/flask-aws-pixly) 🌇
   - [React Prøductïv App](https://productiv-zhl.netlify.app) 📝
+  - [React Jobly App](https://github.com/Zhenhua01/react-jobly) 📜
+  - [Warbler Tweeting App](https://github.com/Zhenhua01/flask-sqla-warbler) 🦜
